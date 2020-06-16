@@ -27,6 +27,7 @@ zowe zos-files download ds z81535.covid19 -f test.csv
 
 
 === job commands ===
+
 To submit the job, wait for it to complete,
 and view all spool content, issue:
 zowe jobs submit ds " Z81535.JCL(HELLO)" --vasc
